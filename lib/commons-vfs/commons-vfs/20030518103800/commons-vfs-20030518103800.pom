@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>commons-vfs</groupId>
+  <artifactId>commons-vfs</artifactId>
+  <version>20030518103800</version>
+</project>
